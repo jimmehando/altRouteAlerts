@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779924813576",
+    "project_id": "alert-app-4oeae7",
+    "storage_bucket": "alert-app-4oeae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779924813576:android:bd4121c19456af973b5ebd",
+        "android_client_info": {
+          "package_name": "com.altroutetech.alerts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJUcuPsWnBI54N2HqgXOMdTAy7Dn5-Leg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
